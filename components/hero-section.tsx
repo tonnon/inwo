@@ -1,16 +1,16 @@
 "use client"
 
 import '@/styles/shared.css'
-import FireParticlesAnimation from "./fire-particles-animation"
+import ApocalypticSky from "./apocalyptic-sky"
 import CoinLogo from "./coin-logo"
 import GlitchTitle from "./glitch-title"
 
 export default function HeroSection() {
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden pt-24 md:pt-28">
-      {/* Background fire particles animation */}
-      <div className="absolute inset-0 z-0 pointer-events-none chaos-bg" aria-hidden="true">
-        <FireParticlesAnimation />
+      {/* Apocalyptic red sky with clouds and fire */}
+      <div className="absolute inset-0 z-0 pointer-events-none" aria-hidden="true">
+        <ApocalypticSky />
       </div>
       {/* Hero Content Centralizado */}
       <div className="relative z-10 flex flex-col items-center justify-center w-full text-center min-h-[calc(100vh-6rem)]">
