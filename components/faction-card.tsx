@@ -12,7 +12,7 @@ export default function FactionCard({ imageUrl, name, description }: FactionCard
 
       <div className="relative w-full max-w-full mx-auto mb-4 flex items-center justify-center overflow-hidden rounded-md aspect-[8/5]">
         <img
-          src={imageUrl || "/placeholder.svg"}
+          src={imageUrl}
           alt={`${name} card`}
           width={200}
           height={125}
