@@ -50,7 +50,7 @@ export const cards: (FactionCard | GroupLikeCard | EventLikeCard)[] = [
     name: "Adepts of Hermes",
     type: "Faction",
     rarity: "I",
-    imageUrl: "/cards/adepts-of-hermes.webp",
+    imageUrl: "/cards/factions/adepts-of-hermes.webp",
     power: "7/7",
     specialGoal: "Each Magic Resource you control counts as one group toward the Basic Goal.",
     abilities: [
@@ -65,7 +65,7 @@ export const cards: (FactionCard | GroupLikeCard | EventLikeCard)[] = [
     name: "Bavarian Illuminati",
     type: "Faction",
     rarity: "I",
-    imageUrl: "/cards/bavarian-illuminati.webp",
+    imageUrl: "/cards/factions/bavarian-illuminati.webp",
     power: "10/10",
     specialGoal: "Control a total Power of 50 or more, counting Bavaria's own Power.",
     abilities: ["Each turn, you may declare one of your attacks privileged."],
@@ -76,7 +76,7 @@ export const cards: (FactionCard | GroupLikeCard | EventLikeCard)[] = [
     name: "Bermuda Triangle",
     type: "Faction",
     rarity: "I",
-    imageUrl: "/cards/bermuda-triangle.webp",
+    imageUrl: "/cards/factions/bermuda-triangle.webp",
     power: "8/8",
     specialGoal:
       "Control a total Power of at least 35, counting Bermuda's own Power, and at least one group of each alignment. A group with more than one alignment counts for all its alignments.",
@@ -88,7 +88,7 @@ export const cards: (FactionCard | GroupLikeCard | EventLikeCard)[] = [
     name: "Discordian Society",
     type: "Faction",
     rarity: "I",
-    imageUrl: "/cards/discordian-society.webp",
+    imageUrl: "/cards/factions/discordian-society.webp",
     power: "7/7",
     specialGoal:
       "Any Weird group with a Power of 3 or more counts double toward your total number of groups controlled.",
@@ -103,7 +103,7 @@ export const cards: (FactionCard | GroupLikeCard | EventLikeCard)[] = [
     name: "Gnomes of Zürich",
     type: "Faction",
     rarity: "I",
-    imageUrl: "/cards/gnomes-of-zurich.png",
+    imageUrl: "/cards/factions/gnomes-of-zurich.webp",
     power: "9/9",
     specialGoal:
       "Any Corporate group or Bank with a Power of 4 or more counts double toward your total number of groups controlled.",
@@ -118,7 +118,7 @@ export const cards: (FactionCard | GroupLikeCard | EventLikeCard)[] = [
     name: "The Network",
     type: "Faction",
     rarity: "I",
-    imageUrl: "/cards/the-network.webp",
+    imageUrl: "/cards/factions/the-network.webp",
     power: "8/8",
     specialGoal:
       "Any Computer group with a Power of 3 or more counts double toward your total number of groups controlled.",
@@ -130,7 +130,7 @@ export const cards: (FactionCard | GroupLikeCard | EventLikeCard)[] = [
     name: "Servants of Cthulhu",
     type: "Faction",
     rarity: "I",
-    imageUrl: "/cards/servants-of-cthulhu.webp",
+    imageUrl: "/cards/factions/servants-of-cthulhu.webp",
     power: "9/9",
     specialGoal:
       "For every group you destroy, reduce by 1 the number of groups you need to control in order to win. You may also count rival Illuminati which you destroy by removing their last group. If you destroy 8 groups, you win, regardless of how many you control!",
@@ -145,7 +145,7 @@ export const cards: (FactionCard | GroupLikeCard | EventLikeCard)[] = [
     name: "Shangri-La",
     type: "Faction",
     rarity: "I",
-    imageUrl: "/cards/shangri-la.webp",
+    imageUrl: "/cards/factions/shangri-la.webp",
     power: "7/7",
     specialGoal:
       "Have Peaceful groups with a total Power of 30 in play, regardless of who controls them! If this happens, all Shangri-La players share the victory.",
@@ -160,7 +160,7 @@ export const cards: (FactionCard | GroupLikeCard | EventLikeCard)[] = [
     name: "UFOs",
     type: "Faction",
     rarity: "I",
-    imageUrl: "/cards/ufos.webp",
+    imageUrl: "/cards/factions/ufos.webp",
     power: "6/6",
     specialGoal: "The UFOs can have up to 3 different Goal cards in play, and win with any of them.",
     abilities: [
@@ -174,7 +174,7 @@ export const cards: (FactionCard | GroupLikeCard | EventLikeCard)[] = [
     name: "Society of Assassins",
     type: "Faction",
     rarity: "I",
-    imageUrl: "/cards/society-of-assassins.webp",
+    imageUrl: "/cards/factions/society-of-assassins.webp",
     power: "7/7",
     specialGoal:
       "Any Secret group counts double for you as long as none of your rivals control a Secret group with more power.",
@@ -189,7 +189,7 @@ export const cards: (FactionCard | GroupLikeCard | EventLikeCard)[] = [
     name: "Church of the SubGenius",
     type: "Faction",
     rarity: "I",
-    imageUrl: "/cards/church-of-the-subgenius.webp",
+    imageUrl: "/cards/factions/church-of-the-subgenius.webp",
     power: "7/7",
     specialGoal:
       "Up to three Slack (Illuminati) tokens on the Church of the SubGenius may count as groups toward your Basic Goal. This Goal cannot be combined with any other Goal.",
@@ -816,7 +816,6 @@ export const cards: (FactionCard | GroupLikeCard | EventLikeCard)[] = [
   {
     id: "financial-control",
     name: "Financial Control",
-    type: "Goal",
     type: "Goal",
     imageUrl: "/placeholder.svg?height=300&width=200",
     description: "Accumulate 50 income.",
