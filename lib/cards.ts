@@ -19,6 +19,7 @@ export interface BaseCard {
   imageUrl: string
   description: string
   isUnique?: boolean
+  powerCost: number // Power cost to play this card (Hearthstone-style)
 }
 
 export interface FactionCard extends BaseCard {
@@ -33,13 +34,11 @@ export interface GroupLikeCard extends BaseCard {
   type: "Group" | "Resource" | "Place" | "Personality" | "Organization" | "Artifact"
   power: number
   resistance: number
-  income: number
   alignments: string[] // e.g., ["Government", "Violent"]
 }
 
 export interface EventLikeCard extends BaseCard {
   type: "Plot" | "Special" | "Goal" | "Disaster" | "New World Order"
-  // These typically don't have power/resistance/income
 }
 
 // Centralized card data
@@ -55,13 +54,16 @@ const createGroupCards = (count: number, imageStart: number): GroupLikeCard[] =>
   Array.from({ length: count }).map((_, index) => {
     const idNumber = index + 1
     const alignment = alignmentSets[index % alignmentSets.length]
+    const power = 3 + (index % 4)
+    const resistance = 2 + ((index + 1) % 4)
+    const powerCost = Math.max(1, Math.min(8, Math.ceil((power + resistance) / 3)))
     return {
       id: `prebuilt-group-${idNumber}`,
       name: `Shadow Asset ${idNumber}`,
       type: "Group",
-      power: 3 + (index % 4),
-      resistance: 2 + ((index + 1) % 4),
-      income: 1 + (index % 3),
+      power,
+      resistance,
+      powerCost,
       alignments: [...alignment],
       imageUrl: `/cards/table-cards/${imageStart + index}_transparent.png`,
       description: "A curated operative sourced from the physical archives.",
@@ -71,10 +73,12 @@ const createGroupCards = (count: number, imageStart: number): GroupLikeCard[] =>
 const createPlotCards = (count: number, imageStart: number): EventLikeCard[] =>
   Array.from({ length: count }).map((_, index) => {
     const idNumber = index + 1
+    const powerCost = Math.max(1, Math.min(5, 1 + (index % 4)))
     return {
       id: `prebuilt-plot-${idNumber}`,
       name: `Conspiracy Plot ${idNumber}`,
       type: "Plot",
+      powerCost,
       imageUrl: `/cards/table-cards/${imageStart + index}_transparent.png`,
       description: "An infamous scheme documented in the tabletop library.",
     }
@@ -91,6 +95,7 @@ const factionCards: FactionCard[] = [
     rarity: "I",
     imageUrl: "/cards/factions/adepts-of-hermes.webp",
     power: "7/7",
+    powerCost: 0,
     specialGoal: "Each Magic Resource you control counts as one group toward the Basic Goal.",
     abilities: [
       "If you fail an Attack to Control against a Group from your own hand, you do not lose the group . . . just return the card to your hand.",
@@ -106,6 +111,7 @@ const factionCards: FactionCard[] = [
     rarity: "I",
     imageUrl: "/cards/factions/bavarian-illuminati.webp",
     power: "10/10",
+    powerCost: 0,
     specialGoal: "Control a total Power of 50 or more, counting Bavaria's own Power.",
     abilities: ["Each turn, you may declare one of your attacks privileged."],
     description: "The classic conspiracy masterminds, pulling strings from the shadows to reshape the world order.",
@@ -117,6 +123,7 @@ const factionCards: FactionCard[] = [
     rarity: "I",
     imageUrl: "/cards/factions/bermuda-triangle.webp",
     power: "8/8",
+    powerCost: 0,
     specialGoal:
       "Control a total Power of at least 35, counting Bermuda's own Power, and at least one group of each alignment. A group with more than one alignment counts for all its alignments.",
     abilities: ["You may reorganize your groups freely at the end of your turn."],
@@ -129,6 +136,7 @@ const factionCards: FactionCard[] = [
     rarity: "I",
     imageUrl: "/cards/factions/discordian-society.webp",
     power: "7/7",
+    powerCost: 0,
     specialGoal:
       "Any Weird group with a Power of 3 or more counts double toward your total number of groups controlled.",
     abilities: [
@@ -144,6 +152,7 @@ const factionCards: FactionCard[] = [
     rarity: "I",
     imageUrl: "/cards/factions/gnomes-of-zurich.webp",
     power: "9/9",
+    powerCost: 0,
     specialGoal:
       "Any Corporate group or Bank with a Power of 4 or more counts double toward your total number of groups controlled.",
     abilities: [
@@ -159,6 +168,7 @@ const factionCards: FactionCard[] = [
     rarity: "I",
     imageUrl: "/cards/factions/the-network.webp",
     power: "8/8",
+    powerCost: 0,
     specialGoal:
       "Any Computer group with a Power of 3 or more counts double toward your total number of groups controlled.",
     abilities: ["You start your turn by drawing two Plot cards, rather than one."],
@@ -171,6 +181,7 @@ const factionCards: FactionCard[] = [
     rarity: "I",
     imageUrl: "/cards/factions/servants-of-cthulhu.webp",
     power: "9/9",
+    powerCost: 0,
     specialGoal:
       "For every group you destroy, reduce by 1 the number of groups you need to control in order to win. You may also count rival Illuminati which you destroy by removing their last group. If you destroy 8 groups, you win, regardless of how many you control!",
     abilities: [
@@ -186,6 +197,7 @@ const factionCards: FactionCard[] = [
     rarity: "I",
     imageUrl: "/cards/factions/shangri-la.webp",
     power: "7/7",
+    powerCost: 0,
     specialGoal:
       "Have Peaceful groups with a total Power of 30 in play, regardless of who controls them! If this happens, all Shangri-La players share the victory.",
     abilities: [
@@ -201,6 +213,7 @@ const factionCards: FactionCard[] = [
     rarity: "I",
     imageUrl: "/cards/factions/ufos.webp",
     power: "6/6",
+    powerCost: 0,
     specialGoal: "The UFOs can have up to 3 different Goal cards in play, and win with any of them.",
     abilities: [
       "The UFOs have two actions per turn — they get two tokens!",
@@ -215,6 +228,7 @@ const factionCards: FactionCard[] = [
     rarity: "I",
     imageUrl: "/cards/factions/society-of-assassins.webp",
     power: "7/7",
+    powerCost: 0,
     specialGoal:
       "Any Secret group counts double for you as long as none of your rivals control a Secret group with more power.",
     abilities: [
@@ -230,6 +244,7 @@ const factionCards: FactionCard[] = [
     rarity: "I",
     imageUrl: "/cards/factions/church-of-the-subgenius.webp",
     power: "7/7",
+    powerCost: 0,
     specialGoal:
       "Up to three Slack (Illuminati) tokens on the Church of the SubGenius may count as groups toward your Basic Goal. This Goal cannot be combined with any other Goal.",
     abilities: [
@@ -273,7 +288,6 @@ export const prebuiltDecks: Record<string, string[]> = {
   "church-of-the-subgenius": buildDeck(50, 30),
 }
 
-// Update helper functions to use new interfaces
 export function getCardById(id: string): FactionCard | GroupLikeCard | EventLikeCard | undefined {
   return cards.find((card) => card.id === id)
 }

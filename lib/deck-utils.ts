@@ -39,27 +39,27 @@ export function validateDeck(faction: FactionCard | null, deck: BaseCard[]): Dec
     isValid = false
   }
 
-  // Rule 2: Minimum 1/3 of the deck must be Groups (now GroupLikeCards)
+  // Rule 2: Minimum 1/3 of the deck must be Groups
   if (totalCards > 0 && groupCount / totalCards < 1 / 3) {
     messages.push(
-      `At least 1/3 of your deck must be Groups (or Group-like cards). Current: ${groupCount} (${(
+      `At least 1/3 of your deck must be Groups. Current: ${groupCount} (${(
         (groupCount / totalCards) * 100
       ).toFixed(0)}%)`,
     )
     isValid = false
   }
 
-  // Rule 3: Minimum 1/3 of the deck must be Plots (now EventLikeCards)
+  // Rule 3: Minimum 1/3 of the deck must be Plots
   if (totalCards > 0 && plotCount / totalCards < 1 / 3) {
     messages.push(
-      `At least 1/3 of your deck must be Plots (or Event-like cards). Current: ${plotCount} (${(
+      `At least 1/3 of your deck must be Plots. Current: ${plotCount} (${(
         (plotCount / totalCards) * 100
       ).toFixed(0)}%)`,
     )
     isValid = false
   }
 
-  // Rule 4: Maximum 2 copies of any non-Faction card. Only 1 Faction card. Cards marked “Unique” can only appear once.
+  // Rule 4: Max 2 copies, Unique cards max 1 copy
   const cardCounts = new Map<string, number>()
   const duplicateCards: { cardName: string; count: number }[] = []
 
@@ -123,4 +123,20 @@ export function loadDeckFromLocalStorage(): { factionId: string | null; deck: Ba
     alert("Failed to load deck. The saved data might be corrupted.")
   }
   return null
+}
+
+export function saveDifficultyToLocalStorage(difficulty: string) {
+  try {
+    localStorage.setItem("inwoDifficulty", difficulty)
+  } catch (error) {
+    console.error("Failed to save difficulty:", error)
+  }
+}
+
+export function loadDifficultyFromLocalStorage(): string {
+  try {
+    return localStorage.getItem("inwoDifficulty") || "medium"
+  } catch {
+    return "medium"
+  }
 }

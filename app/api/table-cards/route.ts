@@ -19,15 +19,18 @@ export async function GET() {
           sanitizedId && /^\d+$/.test(sanitizedId)
             ? `#${sanitizedId}`
             : sanitizedId.replace(/_/g, " ") || rawId
+        const power = 2 + (index % 5)
+        const resistance = 3 + ((index + 2) % 5)
+        const powerCost = Math.max(1, Math.min(8, Math.ceil((power + resistance) / 3)))
         return {
           id: rawId,
           name: `Table Card ${label}`,
           type: "Group",
           imageUrl: `/cards/table-cards/${file}`,
           description: "Digitized from the physical tabletop collection.",
-          power: 2 + (index % 5),
-          resistance: 3 + ((index + 2) % 5),
-          income: 1 + (index % 3),
+          powerCost,
+          power,
+          resistance,
           alignments: ["Table"],
         }
       })

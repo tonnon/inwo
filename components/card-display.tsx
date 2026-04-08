@@ -117,13 +117,13 @@ export default function CardDisplay({
               {showStats && groupCard && (
                 <div className="absolute bottom-2 left-2 right-2 flex items-center justify-between rounded-lg border border-white/10 bg-black/70 px-2 py-1 text-[0.65rem] text-white backdrop-blur-sm">
                   <span className="font-mono">
-                    P:<span className="ml-1 font-semibold">{groupCard.power}</span>
+                    PWR:<span className="ml-1 font-semibold text-amber-300">{groupCard.power}</span>
                   </span>
                   <span className="font-mono">
-                    R:<span className="ml-1 font-semibold">{groupCard.resistance}</span>
+                    RES:<span className="ml-1 font-semibold text-cyan-300">{groupCard.resistance}</span>
                   </span>
                   <span className="font-mono">
-                    I:<span className="ml-1 font-semibold">{groupCard.income}</span>
+                    <span className="text-violet-300">⚡</span><span className="ml-1 font-semibold text-violet-300">{groupCard.powerCost}</span>
                   </span>
                 </div>
               )}
