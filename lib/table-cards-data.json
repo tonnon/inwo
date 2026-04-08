@@ -1,0 +1,5644 @@
+[
+  {
+    "id": "2_transparent",
+    "name": "Table Card #2",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/2_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "3_transparent",
+    "name": "Table Card #3",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/3_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "4_transparent",
+    "name": "Table Card #4",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/4_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "10_transparent",
+    "name": "Table Card #10",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/10_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "11_transparent",
+    "name": "Table Card #11",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/11_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "12_transparent",
+    "name": "Table Card #12",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/12_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "13_transparent",
+    "name": "Table Card #13",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/13_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "14_transparent",
+    "name": "Table Card #14",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/14_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "15_transparent",
+    "name": "Table Card #15",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/15_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "16_transparent",
+    "name": "Table Card #16",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/16_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "17_transparent",
+    "name": "Table Card #17",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/17_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "18_transparent",
+    "name": "Table Card #18",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/18_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "19_transparent",
+    "name": "Table Card #19",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/19_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "20_transparent",
+    "name": "Table Card #20",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/20_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "21_transparent",
+    "name": "Table Card #21",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/21_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "23_transparent",
+    "name": "Table Card #23",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/23_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "24_transparent",
+    "name": "Table Card #24",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/24_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "25_transparent",
+    "name": "Table Card #25",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/25_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "26_transparent",
+    "name": "Table Card #26",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/26_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "27_transparent",
+    "name": "Table Card #27",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/27_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "28_transparent",
+    "name": "Table Card #28",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/28_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "29_transparent",
+    "name": "Table Card #29",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/29_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "30_transparent",
+    "name": "Table Card #30",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/30_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "31_transparent",
+    "name": "Table Card #31",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/31_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "32_transparent",
+    "name": "Table Card #32",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/32_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "33_transparent",
+    "name": "Table Card #33",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/33_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "35_transparent",
+    "name": "Table Card #35",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/35_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "36_transparent",
+    "name": "Table Card #36",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/36_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "37_transparent",
+    "name": "Table Card #37",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/37_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "38_transparent",
+    "name": "Table Card #38",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/38_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "39_transparent",
+    "name": "Table Card #39",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/39_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "40_transparent",
+    "name": "Table Card #40",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/40_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "41_transparent",
+    "name": "Table Card #41",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/41_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "42_transparent",
+    "name": "Table Card #42",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/42_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "43_transparent",
+    "name": "Table Card #43",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/43_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "44_transparent",
+    "name": "Table Card #44",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/44_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "45_transparent",
+    "name": "Table Card #45",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/45_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "46_transparent",
+    "name": "Table Card #46",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/46_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "47_transparent",
+    "name": "Table Card #47",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/47_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "48_transparent",
+    "name": "Table Card #48",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/48_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "49_transparent",
+    "name": "Table Card #49",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/49_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "100_transparent",
+    "name": "Table Card #100",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/100_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "101_transparent",
+    "name": "Table Card #101",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/101_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "102_transparent",
+    "name": "Table Card #102",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/102_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "103_transparent",
+    "name": "Table Card #103",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/103_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "104_transparent",
+    "name": "Table Card #104",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/104_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "105_transparent",
+    "name": "Table Card #105",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/105_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "106_transparent",
+    "name": "Table Card #106",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/106_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "107_transparent",
+    "name": "Table Card #107",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/107_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "108_transparent",
+    "name": "Table Card #108",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/108_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "109_transparent",
+    "name": "Table Card #109",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/109_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "110_transparent",
+    "name": "Table Card #110",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/110_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "111_transparent",
+    "name": "Table Card #111",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/111_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "112_transparent",
+    "name": "Table Card #112",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/112_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "113_transparent",
+    "name": "Table Card #113",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/113_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "114_transparent",
+    "name": "Table Card #114",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/114_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "115_transparent",
+    "name": "Table Card #115",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/115_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "116_transparent",
+    "name": "Table Card #116",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/116_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "117_transparent",
+    "name": "Table Card #117",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/117_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "118_transparent",
+    "name": "Table Card #118",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/118_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "119_transparent",
+    "name": "Table Card #119",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/119_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "120_transparent",
+    "name": "Table Card #120",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/120_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "121_transparent",
+    "name": "Table Card #121",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/121_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "122_transparent",
+    "name": "Table Card #122",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/122_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "123_transparent",
+    "name": "Table Card #123",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/123_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "124_transparent",
+    "name": "Table Card #124",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/124_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "125_transparent",
+    "name": "Table Card #125",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/125_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "126_transparent",
+    "name": "Table Card #126",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/126_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "127_transparent",
+    "name": "Table Card #127",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/127_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "128_transparent",
+    "name": "Table Card #128",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/128_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "129_transparent",
+    "name": "Table Card #129",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/129_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "130_transparent",
+    "name": "Table Card #130",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/130_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "131_transparent",
+    "name": "Table Card #131",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/131_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "132_transparent",
+    "name": "Table Card #132",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/132_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "133_transparent",
+    "name": "Table Card #133",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/133_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "134_transparent",
+    "name": "Table Card #134",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/134_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "135_transparent",
+    "name": "Table Card #135",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/135_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "136_transparent",
+    "name": "Table Card #136",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/136_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "138_transparent",
+    "name": "Table Card #138",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/138_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "139_transparent",
+    "name": "Table Card #139",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/139_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "140_transparent",
+    "name": "Table Card #140",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/140_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "141_transparent",
+    "name": "Table Card #141",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/141_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "142_transparent",
+    "name": "Table Card #142",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/142_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "143_transparent",
+    "name": "Table Card #143",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/143_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "144_transparent",
+    "name": "Table Card #144",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/144_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "145_transparent",
+    "name": "Table Card #145",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/145_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "146_transparent",
+    "name": "Table Card #146",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/146_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "147_transparent",
+    "name": "Table Card #147",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/147_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "148_transparent",
+    "name": "Table Card #148",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/148_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "149_transparent",
+    "name": "Table Card #149",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/149_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "150_transparent",
+    "name": "Table Card #150",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/150_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "151_transparent",
+    "name": "Table Card #151",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/151_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "152_transparent",
+    "name": "Table Card #152",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/152_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "153_transparent",
+    "name": "Table Card #153",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/153_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "154_transparent",
+    "name": "Table Card #154",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/154_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "155_transparent",
+    "name": "Table Card #155",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/155_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "156_transparent",
+    "name": "Table Card #156",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/156_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "157_transparent",
+    "name": "Table Card #157",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/157_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "158_transparent",
+    "name": "Table Card #158",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/158_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "159_transparent",
+    "name": "Table Card #159",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/159_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "160_transparent",
+    "name": "Table Card #160",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/160_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "161_transparent",
+    "name": "Table Card #161",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/161_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "162_transparent",
+    "name": "Table Card #162",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/162_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "163_transparent",
+    "name": "Table Card #163",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/163_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "164_transparent",
+    "name": "Table Card #164",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/164_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "165_transparent",
+    "name": "Table Card #165",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/165_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "166_transparent",
+    "name": "Table Card #166",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/166_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "167_transparent",
+    "name": "Table Card #167",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/167_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "168_transparent",
+    "name": "Table Card #168",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/168_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "169_transparent",
+    "name": "Table Card #169",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/169_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "170_transparent",
+    "name": "Table Card #170",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/170_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "171_transparent",
+    "name": "Table Card #171",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/171_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "172_transparent",
+    "name": "Table Card #172",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/172_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "173_transparent",
+    "name": "Table Card #173",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/173_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "174_transparent",
+    "name": "Table Card #174",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/174_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "175_transparent",
+    "name": "Table Card #175",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/175_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "176_transparent",
+    "name": "Table Card #176",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/176_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "177_transparent",
+    "name": "Table Card #177",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/177_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "178_transparent",
+    "name": "Table Card #178",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/178_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "179_transparent",
+    "name": "Table Card #179",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/179_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "180_transparent",
+    "name": "Table Card #180",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/180_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "181_transparent",
+    "name": "Table Card #181",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/181_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "182_transparent",
+    "name": "Table Card #182",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/182_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "183_transparent",
+    "name": "Table Card #183",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/183_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "184_transparent",
+    "name": "Table Card #184",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/184_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "185_transparent",
+    "name": "Table Card #185",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/185_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "186_transparent",
+    "name": "Table Card #186",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/186_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "187_transparent",
+    "name": "Table Card #187",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/187_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "188_transparent",
+    "name": "Table Card #188",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/188_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "189_transparent",
+    "name": "Table Card #189",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/189_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "190_transparent",
+    "name": "Table Card #190",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/190_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "191_transparent",
+    "name": "Table Card #191",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/191_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "192_transparent",
+    "name": "Table Card #192",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/192_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "193_transparent",
+    "name": "Table Card #193",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/193_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "194_transparent",
+    "name": "Table Card #194",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/194_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "195_transparent",
+    "name": "Table Card #195",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/195_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "196_transparent",
+    "name": "Table Card #196",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/196_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "197_transparent",
+    "name": "Table Card #197",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/197_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "198_transparent",
+    "name": "Table Card #198",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/198_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "199_transparent",
+    "name": "Table Card #199",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/199_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "200_transparent",
+    "name": "Table Card #200",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/200_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "201_transparent",
+    "name": "Table Card #201",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/201_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "202_transparent",
+    "name": "Table Card #202",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/202_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "203_transparent",
+    "name": "Table Card #203",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/203_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "204_transparent",
+    "name": "Table Card #204",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/204_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "205_transparent",
+    "name": "Table Card #205",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/205_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "206_transparent",
+    "name": "Table Card #206",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/206_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "207_transparent",
+    "name": "Table Card #207",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/207_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "208_transparent",
+    "name": "Table Card #208",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/208_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "209_transparent",
+    "name": "Table Card #209",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/209_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "210_transparent",
+    "name": "Table Card #210",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/210_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "211_transparent",
+    "name": "Table Card #211",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/211_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "212_transparent",
+    "name": "Table Card #212",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/212_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "213_transparent",
+    "name": "Table Card #213",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/213_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "214_transparent",
+    "name": "Table Card #214",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/214_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "215_transparent",
+    "name": "Table Card #215",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/215_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "216_transparent",
+    "name": "Table Card #216",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/216_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "217_transparent",
+    "name": "Table Card #217",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/217_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "218_transparent",
+    "name": "Table Card #218",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/218_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "219_transparent",
+    "name": "Table Card #219",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/219_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "220_transparent",
+    "name": "Table Card #220",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/220_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "221_transparent",
+    "name": "Table Card #221",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/221_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "222_transparent",
+    "name": "Table Card #222",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/222_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "223_transparent",
+    "name": "Table Card #223",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/223_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "224_transparent",
+    "name": "Table Card #224",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/224_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "225_transparent",
+    "name": "Table Card #225",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/225_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "226_transparent",
+    "name": "Table Card #226",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/226_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "227_transparent",
+    "name": "Table Card #227",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/227_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "228_transparent",
+    "name": "Table Card #228",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/228_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "229_transparent",
+    "name": "Table Card #229",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/229_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "230_transparent",
+    "name": "Table Card #230",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/230_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "231_transparent",
+    "name": "Table Card #231",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/231_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "232_transparent",
+    "name": "Table Card #232",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/232_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "233_transparent",
+    "name": "Table Card #233",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/233_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "234_transparent",
+    "name": "Table Card #234",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/234_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "235_transparent",
+    "name": "Table Card #235",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/235_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "236_transparent",
+    "name": "Table Card #236",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/236_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "237_transparent",
+    "name": "Table Card #237",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/237_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "238_transparent",
+    "name": "Table Card #238",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/238_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "239_transparent",
+    "name": "Table Card #239",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/239_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "240_transparent",
+    "name": "Table Card #240",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/240_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "241_transparent",
+    "name": "Table Card #241",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/241_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "242_transparent",
+    "name": "Table Card #242",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/242_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "243_transparent",
+    "name": "Table Card #243",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/243_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "244_transparent",
+    "name": "Table Card #244",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/244_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "245_transparent",
+    "name": "Table Card #245",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/245_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "246_transparent",
+    "name": "Table Card #246",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/246_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "247_transparent",
+    "name": "Table Card #247",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/247_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "248_transparent",
+    "name": "Table Card #248",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/248_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "249_transparent",
+    "name": "Table Card #249",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/249_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "250_transparent",
+    "name": "Table Card #250",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/250_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "251_transparent",
+    "name": "Table Card #251",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/251_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "252_transparent",
+    "name": "Table Card #252",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/252_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "253_transparent",
+    "name": "Table Card #253",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/253_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "254_transparent",
+    "name": "Table Card #254",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/254_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "255_transparent",
+    "name": "Table Card #255",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/255_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "256_transparent",
+    "name": "Table Card #256",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/256_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "257_transparent",
+    "name": "Table Card #257",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/257_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "258_transparent",
+    "name": "Table Card #258",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/258_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "259_transparent",
+    "name": "Table Card #259",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/259_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "260_transparent",
+    "name": "Table Card #260",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/260_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "261_transparent",
+    "name": "Table Card #261",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/261_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "262_transparent",
+    "name": "Table Card #262",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/262_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "263_transparent",
+    "name": "Table Card #263",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/263_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "264_transparent",
+    "name": "Table Card #264",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/264_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "265_transparent",
+    "name": "Table Card #265",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/265_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "266_transparent",
+    "name": "Table Card #266",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/266_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "267_transparent",
+    "name": "Table Card #267",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/267_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "268_transparent",
+    "name": "Table Card #268",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/268_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "269_transparent",
+    "name": "Table Card #269",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/269_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "270_transparent",
+    "name": "Table Card #270",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/270_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "271_transparent",
+    "name": "Table Card #271",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/271_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "272_transparent",
+    "name": "Table Card #272",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/272_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "273_transparent",
+    "name": "Table Card #273",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/273_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "274_transparent",
+    "name": "Table Card #274",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/274_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "275_transparent",
+    "name": "Table Card #275",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/275_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "276_transparent",
+    "name": "Table Card #276",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/276_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "277_transparent",
+    "name": "Table Card #277",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/277_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "278_transparent",
+    "name": "Table Card #278",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/278_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "279_transparent",
+    "name": "Table Card #279",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/279_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "280_transparent",
+    "name": "Table Card #280",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/280_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "281_transparent",
+    "name": "Table Card #281",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/281_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "282_transparent",
+    "name": "Table Card #282",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/282_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "283_transparent",
+    "name": "Table Card #283",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/283_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "284_transparent",
+    "name": "Table Card #284",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/284_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "285_transparent",
+    "name": "Table Card #285",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/285_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "286_transparent",
+    "name": "Table Card #286",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/286_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "287_transparent",
+    "name": "Table Card #287",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/287_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "288_transparent",
+    "name": "Table Card #288",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/288_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "289_transparent",
+    "name": "Table Card #289",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/289_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "290_transparent",
+    "name": "Table Card #290",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/290_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "291_transparent",
+    "name": "Table Card #291",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/291_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "292_transparent",
+    "name": "Table Card #292",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/292_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "293_transparent",
+    "name": "Table Card #293",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/293_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "294_transparent",
+    "name": "Table Card #294",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/294_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "295_transparent",
+    "name": "Table Card #295",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/295_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "296_transparent",
+    "name": "Table Card #296",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/296_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "297_transparent",
+    "name": "Table Card #297",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/297_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "298_transparent",
+    "name": "Table Card #298",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/298_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "299_transparent",
+    "name": "Table Card #299",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/299_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "300_transparent",
+    "name": "Table Card #300",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/300_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "301_transparent",
+    "name": "Table Card #301",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/301_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "302_transparent",
+    "name": "Table Card #302",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/302_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "303_transparent",
+    "name": "Table Card #303",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/303_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "304_transparent",
+    "name": "Table Card #304",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/304_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "305_transparent",
+    "name": "Table Card #305",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/305_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "306_transparent",
+    "name": "Table Card #306",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/306_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "307_transparent",
+    "name": "Table Card #307",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/307_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "308_transparent",
+    "name": "Table Card #308",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/308_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "309_transparent",
+    "name": "Table Card #309",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/309_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "310_transparent",
+    "name": "Table Card #310",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/310_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "311_transparent",
+    "name": "Table Card #311",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/311_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "312_transparent",
+    "name": "Table Card #312",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/312_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "313_transparent",
+    "name": "Table Card #313",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/313_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "314_transparent",
+    "name": "Table Card #314",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/314_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "315_transparent",
+    "name": "Table Card #315",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/315_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "316_transparent",
+    "name": "Table Card #316",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/316_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "317_transparent",
+    "name": "Table Card #317",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/317_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "318_transparent",
+    "name": "Table Card #318",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/318_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "319_transparent",
+    "name": "Table Card #319",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/319_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "320_transparent",
+    "name": "Table Card #320",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/320_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "321_transparent",
+    "name": "Table Card #321",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/321_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "322_transparent",
+    "name": "Table Card #322",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/322_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "323_transparent",
+    "name": "Table Card #323",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/323_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "324_transparent",
+    "name": "Table Card #324",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/324_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "325_transparent",
+    "name": "Table Card #325",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/325_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "326_transparent",
+    "name": "Table Card #326",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/326_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "327_transparent",
+    "name": "Table Card #327",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/327_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "328_transparent",
+    "name": "Table Card #328",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/328_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "329_transparent",
+    "name": "Table Card #329",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/329_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "330_transparent",
+    "name": "Table Card #330",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/330_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "331_transparent",
+    "name": "Table Card #331",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/331_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "332_transparent",
+    "name": "Table Card #332",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/332_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "333_transparent",
+    "name": "Table Card #333",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/333_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "336_transparent",
+    "name": "Table Card #336",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/336_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "337_transparent",
+    "name": "Table Card #337",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/337_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "338_transparent",
+    "name": "Table Card #338",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/338_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "339_transparent",
+    "name": "Table Card #339",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/339_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "340_transparent",
+    "name": "Table Card #340",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/340_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "341_transparent",
+    "name": "Table Card #341",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/341_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "342_transparent",
+    "name": "Table Card #342",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/342_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "343_transparent",
+    "name": "Table Card #343",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/343_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "344_transparent",
+    "name": "Table Card #344",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/344_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "345_transparent",
+    "name": "Table Card #345",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/345_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "346_transparent",
+    "name": "Table Card #346",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/346_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "347_transparent",
+    "name": "Table Card #347",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/347_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "348_transparent",
+    "name": "Table Card #348",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/348_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "349_transparent",
+    "name": "Table Card #349",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/349_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "350_transparent",
+    "name": "Table Card #350",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/350_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "351_transparent",
+    "name": "Table Card #351",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/351_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "352_transparent",
+    "name": "Table Card #352",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/352_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "353_transparent",
+    "name": "Table Card #353",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/353_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "354_transparent",
+    "name": "Table Card #354",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/354_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "355_transparent",
+    "name": "Table Card #355",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/355_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "356_transparent",
+    "name": "Table Card #356",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/356_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "357_transparent",
+    "name": "Table Card #357",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/357_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "358_transparent",
+    "name": "Table Card #358",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/358_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "359_transparent",
+    "name": "Table Card #359",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/359_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "360_transparent",
+    "name": "Table Card #360",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/360_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "361_transparent",
+    "name": "Table Card #361",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/361_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "362_transparent",
+    "name": "Table Card #362",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/362_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "363_transparent",
+    "name": "Table Card #363",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/363_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "364_transparent",
+    "name": "Table Card #364",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/364_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "365_transparent",
+    "name": "Table Card #365",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/365_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "366_transparent",
+    "name": "Table Card #366",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/366_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "367_transparent",
+    "name": "Table Card #367",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/367_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "368_transparent",
+    "name": "Table Card #368",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/368_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "369_transparent",
+    "name": "Table Card #369",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/369_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "370_transparent",
+    "name": "Table Card #370",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/370_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "371_transparent",
+    "name": "Table Card #371",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/371_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "372_transparent",
+    "name": "Table Card #372",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/372_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "373_transparent",
+    "name": "Table Card #373",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/373_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "374_transparent",
+    "name": "Table Card #374",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/374_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "375_transparent",
+    "name": "Table Card #375",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/375_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "376_transparent",
+    "name": "Table Card #376",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/376_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "377_transparent",
+    "name": "Table Card #377",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/377_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "378_transparent",
+    "name": "Table Card #378",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/378_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "379_transparent",
+    "name": "Table Card #379",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/379_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "380_transparent",
+    "name": "Table Card #380",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/380_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "381_transparent",
+    "name": "Table Card #381",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/381_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "382_transparent",
+    "name": "Table Card #382",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/382_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "383_transparent",
+    "name": "Table Card #383",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/383_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "384_transparent",
+    "name": "Table Card #384",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/384_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "386_transparent",
+    "name": "Table Card #386",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/386_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "387_transparent",
+    "name": "Table Card #387",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/387_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "388_transparent",
+    "name": "Table Card #388",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/388_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "389_transparent",
+    "name": "Table Card #389",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/389_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "390_transparent",
+    "name": "Table Card #390",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/390_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "391_transparent",
+    "name": "Table Card #391",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/391_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "392_transparent",
+    "name": "Table Card #392",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/392_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "393_transparent",
+    "name": "Table Card #393",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/393_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "394_transparent",
+    "name": "Table Card #394",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/394_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "395_transparent",
+    "name": "Table Card #395",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/395_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "396_transparent",
+    "name": "Table Card #396",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/396_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "397_transparent",
+    "name": "Table Card #397",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/397_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "398_transparent",
+    "name": "Table Card #398",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/398_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "400_transparent",
+    "name": "Table Card #400",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/400_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "401_transparent",
+    "name": "Table Card #401",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/401_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "402_transparent",
+    "name": "Table Card #402",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/402_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "403_transparent",
+    "name": "Table Card #403",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/403_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "404_transparent",
+    "name": "Table Card #404",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/404_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "405_transparent",
+    "name": "Table Card #405",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/405_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "406_transparent",
+    "name": "Table Card #406",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/406_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "407_transparent",
+    "name": "Table Card #407",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/407_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "408_transparent",
+    "name": "Table Card #408",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/408_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "409_transparent",
+    "name": "Table Card #409",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/409_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "410_transparent",
+    "name": "Table Card #410",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/410_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "411_transparent",
+    "name": "Table Card #411",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/411_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "412_transparent",
+    "name": "Table Card #412",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/412_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "413_transparent",
+    "name": "Table Card #413",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/413_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "414_transparent",
+    "name": "Table Card #414",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/414_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "415_transparent",
+    "name": "Table Card #415",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/415_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "416_transparent",
+    "name": "Table Card #416",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/416_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "417_transparent",
+    "name": "Table Card #417",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/417_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "419_transparent",
+    "name": "Table Card #419",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/419_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "420_transparent",
+    "name": "Table Card #420",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/420_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "421_transparent",
+    "name": "Table Card #421",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/421_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "422_transparent",
+    "name": "Table Card #422",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/422_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "423_transparent",
+    "name": "Table Card #423",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/423_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "425_transparent",
+    "name": "Table Card #425",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/425_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "426_transparent",
+    "name": "Table Card #426",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/426_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "427_transparent",
+    "name": "Table Card #427",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/427_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "428_transparent",
+    "name": "Table Card #428",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/428_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "429_transparent",
+    "name": "Table Card #429",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/429_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "430_transparent",
+    "name": "Table Card #430",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/430_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "431_transparent",
+    "name": "Table Card #431",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/431_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "432_transparent",
+    "name": "Table Card #432",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/432_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "433_transparent",
+    "name": "Table Card #433",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/433_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "434_transparent",
+    "name": "Table Card #434",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/434_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "435_transparent",
+    "name": "Table Card #435",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/435_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "436_transparent",
+    "name": "Table Card #436",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/436_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "437_transparent",
+    "name": "Table Card #437",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/437_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "438_transparent",
+    "name": "Table Card #438",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/438_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "439_transparent",
+    "name": "Table Card #439",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/439_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "440_transparent",
+    "name": "Table Card #440",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/440_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "441_transparent",
+    "name": "Table Card #441",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/441_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "442_transparent",
+    "name": "Table Card #442",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/442_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "443_transparent",
+    "name": "Table Card #443",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/443_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "444_transparent",
+    "name": "Table Card #444",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/444_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "445_transparent",
+    "name": "Table Card #445",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/445_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "446_transparent",
+    "name": "Table Card #446",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/446_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "447_transparent",
+    "name": "Table Card #447",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/447_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "448_transparent",
+    "name": "Table Card #448",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/448_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "449_transparent",
+    "name": "Table Card #449",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/449_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "450_transparent",
+    "name": "Table Card #450",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/450_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "451_transparent",
+    "name": "Table Card #451",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/451_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "452_transparent",
+    "name": "Table Card #452",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/452_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "453_transparent",
+    "name": "Table Card #453",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/453_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "454_transparent",
+    "name": "Table Card #454",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/454_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "455_transparent",
+    "name": "Table Card #455",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/455_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "456_transparent",
+    "name": "Table Card #456",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/456_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "457_transparent",
+    "name": "Table Card #457",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/457_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "458_transparent",
+    "name": "Table Card #458",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/458_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "459_transparent",
+    "name": "Table Card #459",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/459_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "460_transparent",
+    "name": "Table Card #460",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/460_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "461_transparent",
+    "name": "Table Card #461",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/461_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "462_transparent",
+    "name": "Table Card #462",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/462_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "463_transparent",
+    "name": "Table Card #463",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/463_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "464_transparent",
+    "name": "Table Card #464",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/464_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "465_transparent",
+    "name": "Table Card #465",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/465_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "466_transparent",
+    "name": "Table Card #466",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/466_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "467_transparent",
+    "name": "Table Card #467",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/467_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "468_transparent",
+    "name": "Table Card #468",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/468_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "469_transparent",
+    "name": "Table Card #469",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/469_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "470_transparent",
+    "name": "Table Card #470",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/470_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "471_transparent",
+    "name": "Table Card #471",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/471_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "472_transparent",
+    "name": "Table Card #472",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/472_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "473_transparent",
+    "name": "Table Card #473",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/473_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "474_transparent",
+    "name": "Table Card #474",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/474_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "475_transparent",
+    "name": "Table Card #475",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/475_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "476_transparent",
+    "name": "Table Card #476",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/476_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "477_transparent",
+    "name": "Table Card #477",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/477_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "478_transparent",
+    "name": "Table Card #478",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/478_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "479_transparent",
+    "name": "Table Card #479",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/479_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "480_transparent",
+    "name": "Table Card #480",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/480_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "481_transparent",
+    "name": "Table Card #481",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/481_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "482_transparent",
+    "name": "Table Card #482",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/482_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "483_transparent",
+    "name": "Table Card #483",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/483_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "484_transparent",
+    "name": "Table Card #484",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/484_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "485_transparent",
+    "name": "Table Card #485",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/485_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "486_transparent",
+    "name": "Table Card #486",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/486_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "487_transparent",
+    "name": "Table Card #487",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/487_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "488_transparent",
+    "name": "Table Card #488",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/488_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "489_transparent",
+    "name": "Table Card #489",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/489_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "490_transparent",
+    "name": "Table Card #490",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/490_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "491_transparent",
+    "name": "Table Card #491",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/491_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "492_transparent",
+    "name": "Table Card #492",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/492_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "493_transparent",
+    "name": "Table Card #493",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/493_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "494_transparent",
+    "name": "Table Card #494",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/494_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "495_transparent",
+    "name": "Table Card #495",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/495_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 6,
+    "resistance": 4,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "496_transparent",
+    "name": "Table Card #496",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/496_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 2,
+    "resistance": 5,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "497_transparent",
+    "name": "Table Card #497",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/497_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 3,
+    "resistance": 6,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "498_transparent",
+    "name": "Table Card #498",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/498_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 4,
+    "power": 4,
+    "resistance": 7,
+    "alignments": [
+      "Table"
+    ]
+  },
+  {
+    "id": "499_transparent",
+    "name": "Table Card #499",
+    "type": "Group",
+    "imageUrl": "/cards/table-cards/499_transparent.png",
+    "description": "Digitized from the physical tabletop collection.",
+    "powerCost": 3,
+    "power": 5,
+    "resistance": 3,
+    "alignments": [
+      "Table"
+    ]
+  }
+]
